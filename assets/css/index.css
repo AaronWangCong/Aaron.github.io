@@ -1,0 +1,13 @@
+.jumbotron {
+  height: 1000px;
+  padding-top: 100px;
+  min-width: 1200px;
+}
+.jumbotron h1, .jumbotron p {
+  padding: 10px 0;
+}
+.jumbotron .btn-more {
+  margin-top: 10px;
+}
+
+/*# sourceMappingURL=index.css.map */
