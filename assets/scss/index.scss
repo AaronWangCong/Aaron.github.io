@@ -1,11 +1,16 @@
 .jumbotron{
-    height: 1000px;
     padding-top: 100px;
-    min-width: 1200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: transparent;
     h1,p{
         padding: 10px 0;
     }
     .btn-more{
         margin-top: 10px;
     }
+}
+.dg{
+    display: none;
 }
